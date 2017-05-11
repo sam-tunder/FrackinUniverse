@@ -47,7 +47,7 @@
       {
         "trigger" : "healthPercentage",
         "healthPercentage" : 0.55,
-        "skills" : [ "eyeBeamAttack", "shoggothChargeAttack", "tentacleSwipeAttack", "shoggothAcidAttack2" ]
+        "skills" : [ "eyeBeamAttack", "shoggothChargeAttack", "tentacleSwipeAttack" ]
       },
       {
         "trigger" : "healthPercentage",
@@ -165,7 +165,10 @@
         },   
         "ffextremeheatImmunity" : {
           "baseValue" : 1.0
-        },          
+        },       
+        "penaltyBlock" : {
+          "baseValue" : 1.0
+        },         
         "poisonResistance" : { "baseValue" : 0.4 },
         "fireResistance" : { "baseValue" :0.5 },
         "iceResistance" : { "baseValue" : 0.5 },
