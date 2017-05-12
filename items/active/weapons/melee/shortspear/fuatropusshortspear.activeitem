@@ -31,11 +31,11 @@
   "fireSounds" : [ "/sfx/melee/swing_spear.ogg" ],
   
   "critChance" : 2,
-  "critBonus" : 3, 
+  "critBonus" : 4, 
   
   "primaryAbilityType" : "shortspearcombo",
   "primaryAbility" : {
-    "fireTime" : 0.625,
+    "fireTime" : 0.665,
     "baseDps" : 7.5,
     "damageConfig" : {
       "statusEffects" : [ "weakpoison" ]

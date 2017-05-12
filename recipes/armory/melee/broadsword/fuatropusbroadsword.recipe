@@ -2,12 +2,9 @@
   "input" : [
    { "item" : "mutagene4", "count" : 2 },
    { "item" : "fleshstrand", "count" : 12 },
-   { "item" : "bone", "count" : 5 },
+   { "item" : "bone", "count" : 12 },
    { "item" : "blooddiamond", "count" : 2 }
   ],
-  "output" : {
-    "item" : "fuatropusaxe",
-    "count" : 1
-  },
-  "groups" : [ "armory3", "melee", "all" ]
+  "output" : { "item" : "advalloybroadsword", "count" : 1 },
+  "groups" : [ "armory3", "melee2", "all" ]
 }

@@ -5,9 +5,6 @@
    { "item" : "bone", "count" : 5 },
    { "item" : "blooddiamond", "count" : 2 }
   ],
-  "output" : {
-    "item" : "fuatropusaxe",
-    "count" : 1
-  },
-  "groups" : [ "armory3", "melee", "all" ]
+  "output" : { "item" : "fuatropusspear", "count" : 1 },
+  "groups" : [ "armory3", "melee2", "all" ]
 }
