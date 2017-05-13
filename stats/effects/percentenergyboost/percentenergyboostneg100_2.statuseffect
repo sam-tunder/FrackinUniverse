@@ -1,9 +1,9 @@
 {
-  "name" : "percentenergyboostneg100",
+  "name" : "percentenergyboostneg100_2",
   "effectConfig" : {
-    "healthDown" : -0.99
+    "healthDown" : -0.69
   },
-  "defaultDuration" : 30,
+  "defaultDuration" : 4,
 
   "scripts" : [
     "percentenergyboost.lua"
